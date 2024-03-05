@@ -1,0 +1,270 @@
+{
+  "accounts": [
+    {
+      "EmailAddress": "admin@gmail.com",
+      "Password": "123",
+      "Fullname": "Admin",
+      "id": "d164"
+    },
+    {
+      "EmailAddress": "abc@gmail.com",
+      "Password": "123",
+      "Fullname": "Nguyen Van A",
+      "id": "3d44"
+    },
+    {
+      "EmailAddress": "dbf@gmail.com",
+      "Password": "333",
+      "Fullname": "Nguyen Van F",
+      "id": "8218"
+    },
+    {
+      "id": "4a94",
+      "Fullname": "Doan",
+      "EmailAddress": "doan123@gmail.com",
+      "Password": "123"
+    },
+    {
+      "id": "2832",
+      "Fullname": "doan",
+      "EmailAddress": "doan@gmail.com",
+      "Password": "123"
+    },
+    {
+      "id": "561a",
+      "Fullname": "Bui Van Doan",
+      "EmailAddress": "doan678@gmail.com",
+      "Password": "123"
+    }
+  ],
+  "coffeeProduct": [
+    {
+      "id": "0",
+      "img": "https://neurosciencenews.com/files/2023/06/coffee-brain-caffeine-neuroscincces.jpg",
+      "name": "Capuccino 1",
+      "tooping": "With Steamed Milk",
+      "price": "4.20",
+      "star": "4.5",
+      "description": " Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "1",
+      "img": "https://neurosciencenews.com/files/2023/06/coffee-brain-caffeine-neuroscincces.jpg",
+      "name": "Capuccino 2",
+      "tooping": "With Froam",
+      "price": "4.20",
+      "star": "4.3",
+      "description": " Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "2",
+      "img": "https://neurosciencenews.com/files/2023/06/coffee-brain-caffeine-neuroscincces.jpg",
+      "name": "Capuccino",
+      "tooping": "With Steamed Milk1",
+      "price": "4.25",
+      "star": "4.1",
+      "description": " Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "3",
+      "img": "https://neurosciencenews.com/files/2023/06/coffee-brain-caffeine-neuroscincces.jpg",
+      "name": "Capuccino 1",
+      "tooping": "With Froam",
+      "price": "4.20",
+      "star": "4.6",
+      "description": " Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    }
+  ],
+  "beansProduct": [
+    {
+      "id": "0",
+      "img": "https://coffeego.in/cdn/shop/products/pexels-photo-4085294.jpg?v=1665895125",
+      "name": "Robusta Beans",
+      "topping": "Medium roasted",
+      "price": "4.2",
+      "star": "3.1",
+      "description": " Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "1",
+      "img": "https://coffeego.in/cdn/shop/products/pexels-photo-4085294.jpg?v=1665895125",
+      "name": "Capuccino",
+      "topping": "Milk",
+      "price": "4.6",
+      "star": "3.3",
+      "description": " Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "2",
+      "img": "https://coffeego.in/cdn/shop/products/pexels-photo-4085294.jpg?v=1665895125",
+      "name": "Robusta Beans",
+      "topping": "Medium roasted",
+      "price": "4.2",
+      "star": "3.7",
+      "description": " Arabica beans are by far the most popular type be the first coffee beans ever consumed!"
+    }
+  ],
+  "Cart": [
+    {
+      "id": "8cb8",
+      "name": "Capuccino 2",
+      "quantityandPrice": [
+        {
+          "quantity": 1,
+          "size": "S",
+          "price": "10"
+        }
+      ]
+    },
+    {
+      "id": "3bce",
+      "name": "Capuccino 1",
+      "quantityandPrice": [
+        {
+          "quantity": 1,
+          "size": "S",
+          "price": "10"
+        }
+      ]
+    },
+    {
+      "id": "30e3",
+      "name": "Capuccino 1",
+      "quantityandPrice": [
+        {
+          "quantity": 1,
+          "size": "M",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "d407",
+      "name": "Capuccino 1",
+      "quantityandPrice": [
+        {
+          "quantity": 1,
+          "size": "M",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "a652",
+      "name": "Capuccino 2",
+      "quantityandPrice": [
+        {
+          "quantity": 1,
+          "size": "M",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "154c",
+      "name": "Capuccino 1",
+      "quantityandPrice": [
+        {
+          "quantity": 3,
+          "size": "M",
+          "price": 20
+        }
+      ]
+    }
+  ],
+  "Favoretes": [
+    {
+      "id": "be38",
+      "name": "Robusta Beans",
+      "star": "3.1",
+      "description": " Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in even be the first coffee beans ever consumed!",
+      "img": "https://coffeego.in/cdn/shop/products/pexels-photo-4085294.jpg?v=1665895125",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "b8f4",
+      "name": "Capuccino 1",
+      "star": "4.5",
+      "description": " Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!",
+      "img": "https://neurosciencenews.com/files/2023/06/coffee-brain-caffeine-neuroscincces.jpg",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "f095",
+      "name": "Capuccino 1",
+      "star": "4.5",
+      "description": " Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!",
+      "img": "https://neurosciencenews.com/files/2023/06/coffee-brain-caffeine-neuroscincces.jpg",
+      "email": "doan678@gmail.com"
+    },
+    {
+      "id": "45c1",
+      "name": "Capuccino 1",
+      "star": "4.5",
+      "description": " Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!",
+      "img": "https://neurosciencenews.com/files/2023/06/coffee-brain-caffeine-neuroscincces.jpg",
+      "email": "admin@gmail.com"
+    }
+  ],
+  "Histories": [
+    {
+      "id": "8cb8",
+      "name": "Capuccino 2",
+      "quantityandPrice": [
+        {
+          "quantity": 1,
+          "size": "S",
+          "price": "10"
+        }
+      ]
+    },
+    {
+      "id": "8cb8",
+      "TimeCreat": 2032,
+      "name": "Capuccino 2",
+      "quantityandPrice": [
+        {
+          "quantity": 1,
+          "size": "S",
+          "price": "10"
+        }
+      ]
+    },
+    {
+      "id": "8cb8",
+      "TimeCreat": "5/3/2024",
+      "name": "Capuccino 2",
+      "quantityandPrice": [
+        {
+          "quantity": 1,
+          "size": "S",
+          "price": "10"
+        }
+      ]
+    },
+    {
+      "id": "8cb8",
+      "TimeCreat": "5/3/2024",
+      "name": "Capuccino 2",
+      "quantityandPrice": [
+        {
+          "quantity": 1,
+          "size": "S",
+          "price": "10"
+        }
+      ]
+    },
+    {
+      "id": "8cb8",
+      "TimeCreat": "5/3/2024-17:37",
+      "name": "Capuccino 2",
+      "quantityandPrice": [
+        {
+          "quantity": 1,
+          "size": "S",
+          "price": "10"
+        }
+      ]
+    }
+  ]
+}
